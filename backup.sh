@@ -1,4 +1,8 @@
 #!/usr/bin/env bash
 
-echo "Backup started"
-echo "Backup created"
+create_backup() {
+    echo "Backup created"
+}
+
+create_backup
+
