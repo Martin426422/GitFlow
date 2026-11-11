@@ -6,3 +6,7 @@ tworzenie kopii zapasowych
 przywracanie danych
 testy automatyczne
 integracja CI
+
+Requirements
+Git
+Bash
